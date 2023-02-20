@@ -1,0 +1,6 @@
+dotnet new winforms
+dotnet run
+
+Program.cs (คลาสโปรแกรมหลัก)
+Form1.cs หน้าจอควบคุมการทำงาน Event ต่างๆ  
+Form1.Designer.cs สำหรับการออกแบบหน้าจอ
